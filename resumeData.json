@@ -1,0 +1,171 @@
+{
+  "main": {
+    "name": "Daniel Gomez",
+    "occupation": "Software Developer",
+    "description": "Software developer with 2+ years of work experience. Aiming to leverage my academic experience, and proven knowledge of programming to successfully become a better programmer",
+    "image": "profilepic.jpg",
+    "bio": "I work mostly backend with some knowledge of react, I work mainly with java and python. In my spare time I like making prototypes in python. Look at my second github to check those out",
+    "contactmessage": "If you would like to discuss a job position or a prototype idea email or call me, email is better I turn my phone off a lot.",
+    "email": "dggomez@gmail.com",
+    "phone": "647-706-8563",
+    "address": {
+      "street": "---",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "Canada"
+    },
+    "resumedownload": "https://github.com/DGGomez/DGGomez/raw/main/Daniel_Gomez_Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dgomez1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC32xY3FUupnXwGbn64KOArQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dggomez",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "github youtube",
+        "url": "https://github.com/DownRamp",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My main knowledge is in java but I work on my projects in python since its less writing",
+    "education": [
+      {
+        "school": "Ryerson Universtiy",
+        "degree": "Bachlors of Science: Computer Science",
+        "graduated": "June 2020",
+        "description": "Graduated with honors at school I learned about testing, data structures and algorithms"
+      },
+      {
+        "school": "Ryerson Universtiy",
+        "degree": "Bachlors of Engineering: Chemical Engineering (Didn't finish)",
+        "graduated": "Dropped out: May 2014",
+        "description": "I learned when to quit and how to tell when I'm miserable"
+      }
+    ],
+    "work": [
+      {
+        "company": "Priceline",
+        "title": "Associate Software Developer",
+        "years": " July 2021 – March 2022",
+        "description": "Developed and tested new endpoints for different services\n Provided software support to product teams on an ad-hoc basis.\n Tracked and fixed errors on existing booking service.\n"
+      },
+      {
+        "company": "Thoughtwire",
+        "title": "Software Engineer",
+        "years": "February 2020 – July 2021",
+        "description": "Developed and maintained front end made with in-house coding language.\n Designed and implemented backend features using spring boot, GO, AWS, and docker.\n Tested and fixed new features and legacy code.\n"
+      },
+      {
+        "company": "BMO",
+        "title": "Developer - Co-op",
+        "years": "January 2019 – August 2019",
+        "description": "Migrated and updated existing APIs to AWS which reduced overall cost by over 50%.\nAnalyzed user needs and software requirements to determine the feasibility of design within time and cost constraints.\nTrained developers to use AWS and new APIs created.\n"
+      },
+      {
+        "company": "Manulife",
+        "title": "Visiting Software Engineer - Co-op",
+        "years": "May 2018 – December 2018",
+        "description": "Analyzed information to determine, recommend, and plan the installation of a new system or modification of an existing system.\nRemade existing code to work with new hardware and improve performance times and functions.\n"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+      ,
+      {
+        "name": "AWS",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Games",
+        "category": "Random Games I've made",
+        "image": "game2.png",
+        "url": "https://github.com/DownRamp/Games/tree/main/final_game"
+      },
+      {
+        "title": "Assistant",
+        "category": "A multifunction assistant tool",
+        "image": "assistant.png",
+        "url": "https://github.com/DownRamp/Assistant"
+      }
+    ],
+    "upcoming": [
+        {
+        "title": "Scrum Master",
+        "category": "A free scrum master tool (api/web app)",
+        "image": "tbd.png",
+        "url": "https://github.com/DownRamp/ScrumMaster"
+      },
+      {
+        "title": "Creeper report",
+        "category": "Report things you see in your area that you don't think are important enough to tell police",
+        "image": "tbd.png",
+        "url": "https://github.com/DownRamp/Society"
+      },
+      {
+        "title": "Life helper tool",
+        "category": "Multipurpose helper tool",
+        "image": "tbd.png",
+        "url": "https://github.com/DownRamp/Life"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Cool Guy.",
+        "user": "Daniel Gomez"
+      },
+      {
+        "text": "You should hire this guy for stuff. Honestly",
+        "user": "D.G Gomez"
+      }
+    ]
+  }
+}
