@@ -186,7 +186,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B url(../images/about-background.jpg) no-repeat top center;
+   background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
    background-size: cover !important;
@@ -421,7 +421,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee url(../images/portfolio-background.jpg) no-repeat top center;
+   background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
    background-size: cover !important;
@@ -664,7 +664,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F ;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;

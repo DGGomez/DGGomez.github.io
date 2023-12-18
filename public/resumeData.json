@@ -7,14 +7,14 @@
     "bio": "I work mostly backend with some knowledge of react, I work mainly with java and python. In my spare time I like making prototypes in python. Look at my second github to check those out",
     "contactmessage": "If you would like to discuss a job position or a prototype idea email or call me, email is better I turn my phone off a lot.",
     "email": "dggomez@gmail.com",
-    "phone": "647-706-8563",
+    "phone": "---",
     "address": {
       "street": "---",
       "city": "Toronto",
       "state": "ON",
       "zip": "Canada"
     },
-    "resumedownload": "https://github.com/DGGomez/DGGomez/raw/main/Daniel_Gomez_Resume.pdf",
+    "resumedownload": "https://github.com/DGGomez/DGGomez/raw/main/DGomez2023.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -55,6 +55,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Central 1 Credit Union",
+        "title": "Software Specialist",
+        "years": " May 2023 – October 2023",
+        "description": "Contract position for updating CSS and functionality for current clients. Provided production support of a large web banking software.\n"
+      },
       {
         "company": "Priceline",
         "title": "Associate Software Developer",
@@ -122,6 +128,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Down Ramp Apps",
+        "category": "Business",
+        "image": "DownRampApps-logos_black.png",
+        "url": "https://down-ramp-site-downramp.vercel.app/"
+      },
       {
         "title": "Games",
         "category": "Random Games I've made",
